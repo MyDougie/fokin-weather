@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "simple weather app (react-native)",
+    "githubUrl": "https://github.com/MyDougie/fokin-weather"
   }
 }
